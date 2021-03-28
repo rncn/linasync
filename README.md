@@ -15,4 +15,4 @@ $ cd $GOPATH/src/github.com/skanehira/docui
 $ go install
 ```
 # Usage
-For details of the CLI please see [wiki](./wiki).
+For details of the CLI please see [wiki](https://github.com/rncn/linasync/wiki).
