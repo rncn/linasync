@@ -8,11 +8,11 @@ You can get builded binary from Snap Store.
 $ sudo snap install linasync
 ```
 or, Build from git repository.  
-This project requires `Go 1.16 or latter`.
+This project requires `Go 1.16 or latter & git`.
 ``` console
 $ go get -d github.com/rncn/linasync
 $ cd $GOPATH/src/github.com/skanehira/docui
 $ go install
 ```
 # Usage
-For details of the CLI please see wiki.
+For details of the CLI please see [wiki](./wiki).
